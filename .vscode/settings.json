@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "port": 8123,
+            "previewLimit": 50,
+            "driver": "ClickHouse",
+            "name": "clickhouse",
+            "server": "10.10.10.29",
+            "database": "firstdb",
+            "username": "kirill",
+            "password": "tammenyanet88DL"
+        }
+    ]
+}
